@@ -1,4 +1,6 @@
 # Experiment 4: DeFi Lending and Borrowing Protocol
+# NAME - PAVITRA J
+# REG NO - 212224110043
 # Aim:
 To build a decentralized lending protocol where users can deposit assets to earn interest and borrow assets by providing collateral. This experiment introduces concepts like overcollateralization, liquidity pools, and interest accrual in DeFi.
 
@@ -75,12 +77,15 @@ contract DeFiLending {
 ```
 # Expected Output:
 Users can deposit ETH and earn interest.
+<img width="1600" height="856" alt="cb07d22f-2c00-4ed4-95e0-a04ebf3cec60" src="https://github.com/user-attachments/assets/5cb96858-a8db-4e9a-80e5-67031dbf8fe1" />
 
 
 Users can borrow ETH by providing collateral.
+<img width="1600" height="852" alt="0e85e71a-d057-4b70-b326-2047937731cd" src="https://github.com/user-attachments/assets/4400b58f-4668-4329-a984-12cb63dcf583" />
+<img width="1600" height="853" alt="862011c9-c99f-4d28-8841-7a34dbb309de" src="https://github.com/user-attachments/assets/0fa88b2a-263d-4754-bc95-d7852ed087c3" />
 
+<img width="1600" height="817" alt="67212a67-8dc6-4a31-9b29-8712a63d9708" src="https://github.com/user-attachments/assets/1250bcc6-19c5-4090-aa59-e47cd8e4f86f" />
 
-If collateral < 150% of borrowed amount, liquidators can seize the collateral.
 
 
 
@@ -94,4 +99,4 @@ Introduces risk management: overcollateralization and liquidation.
 Directly related to DeFi protocols like Aave and Compound.
 
 # RESULT : 
-
+Thus building a decentralized lending protocol where users can deposit assets to earn interest and borrow assets by providing collateral was successfully executed.
